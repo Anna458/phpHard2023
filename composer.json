@@ -1,0 +1,17 @@
+{
+    "name": "src/starting_a_course_project",
+    "autoload": {
+        "psr-4": {
+            "src\\StartingACourseProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anna",
+            "email": "annaefimova458@gmai.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.21"
+    }
+}
